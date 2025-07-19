@@ -9,10 +9,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 Currently studying **Data Science & Advanced Analytics**
-- 🚀 Transitioning from Pharma Industry → Data Science & BI
 - 🧠 Focused on **EDA, Statistics, Python, SQL, ETL, Machine Learning**
 - 📊 I love transforming data into strategic insights!
-
+  
 ---
 
 ### 🔧 Main Skills
@@ -42,14 +41,3 @@
 </p>
 
 ---
-
-### 📬 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivermateusds/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OliverMateusDS&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
